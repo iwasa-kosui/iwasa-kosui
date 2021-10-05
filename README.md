@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on DeNA Co., Ltd.
+- 💬 Check my blog https://www.ebiebievidence.com/
+- 📫 How to reach me: contact[at]iwasakosui.com
+
 <!--
 **iwasa-kosui/iwasa-kosui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
