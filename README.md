@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on KAKEHASHI Co., Ltd.
-- 💬  Check my blog https://www.ebiebievidence.com/
+- 💬  Check my blog https://kosui.me/
 - 📫  How to reach me: hello[at]kosui.me or [Twitter](https://twitter.com/ebiebievidence)
 
 <!--
